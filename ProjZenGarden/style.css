@@ -1,0 +1,20 @@
+/*1. Crie uma pasta para o projeto do CSS Zen Garden, e baixe a página HTML para este diretório.
+
+2. Crie um arquivo chamado style.css no diretório do seu projeto, e o inclua na página HTML.
+
+3. Defina uma paleta de cores que você irá trabalhar. Essa paleta deverá ter pelo menos três cores:
+uma cor de fundo, uma cor para fonte, e uma cor de destaque.*/
+/* Color Theme Swatches in Hex */
+.Ilustração-1-hex { color: #F2359D; }
+.fonte { color: #03318C; }
+.Ilustração-3-hex { color: #F2C335; }
+.primaria { color: #F28705; }
+.segundaria { color: #F2AA80; }
+
+
+
+
+html{
+    background-color: #F2AA80;
+    color:  #03318C;
+}
